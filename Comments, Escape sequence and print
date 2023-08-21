@@ -1,0 +1,7 @@
+print("hello world")
+print(5)
+print("name \n name1")    # new line 
+print("newline charactar")
+
+print('yoiu \"wrong turn \" ')  #escape sequence character
+print("larson" , 1,4, "chiwava", sep ="~" , end ="larry")
